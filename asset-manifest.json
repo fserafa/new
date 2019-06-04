@@ -1,9 +1,9 @@
 {
   "main.css": "/new/static/css/main.47da624a.chunk.css",
-  "main.js": "/new/static/js/main.a2913182.chunk.js",
-  "main.js.map": "/new/static/js/main.a2913182.chunk.js.map",
-  "static/js/1.8ffbd5d8.chunk.js": "/new/static/js/1.8ffbd5d8.chunk.js",
-  "static/js/1.8ffbd5d8.chunk.js.map": "/new/static/js/1.8ffbd5d8.chunk.js.map",
+  "main.js": "/new/static/js/main.6a9c6e31.chunk.js",
+  "main.js.map": "/new/static/js/main.6a9c6e31.chunk.js.map",
+  "static/js/1.8fa0c234.chunk.js": "/new/static/js/1.8fa0c234.chunk.js",
+  "static/js/1.8fa0c234.chunk.js.map": "/new/static/js/1.8fa0c234.chunk.js.map",
   "runtime~main.js": "/new/static/js/runtime~main.a198f4cc.js",
   "runtime~main.js.map": "/new/static/js/runtime~main.a198f4cc.js.map",
   "static/media/pedra.png": "/new/static/media/pedra.05c44179.png",
@@ -13,6 +13,6 @@
   "static/media/lula.jpg": "/new/static/media/lula.c82f5333.jpg",
   "static/css/main.47da624a.chunk.css.map": "/new/static/css/main.47da624a.chunk.css.map",
   "index.html": "/new/index.html",
-  "precache-manifest.73117f741b93e6e445a99328ce974166.js": "/new/precache-manifest.73117f741b93e6e445a99328ce974166.js",
+  "precache-manifest.fc1cc1a103580b32b0b3b5ffa5c78b00.js": "/new/precache-manifest.fc1cc1a103580b32b0b3b5ffa5c78b00.js",
   "service-worker.js": "/new/service-worker.js"
 }
